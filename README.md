@@ -69,7 +69,7 @@ e06b65f6b0c2: Pushed
 27f7e4620f8d: Mounted from library/python
 09c126bb3acd: Mounted from library/python
 24302eb7d908: Mounted from library/python
-0.0.1: digest: sha256:**** size: 2202
+0.0.1: digest: sha256:11214fda81650fe5863bcd2ad28f3d48e44542fce55f77cbdb4dd787f5aef5fd size: 2202
  ```
  ### Run test from Docker Hub
  Now running from the docker hub registry
